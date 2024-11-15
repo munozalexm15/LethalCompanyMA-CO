@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 4114044503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0836b87148f7fa6de3b1eed0fb11b2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 204d80fee14ef54c3b1e981fc27a21f7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d0836b87148f7fa6de3b1eed0fb11b2c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BitArray128
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettingsOverrideMask
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.HDPhysicalCamera
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteFrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteLightLoopSettings
+Assets:
+- Assets/Mods/MACO/Items/Scraps/battery 1/battery.fbx
+- Assets/Mods/MACO/Items/Scraps/KangarooHat/Alejandro_Hat.blend
+- Assets/Mods/MACO/Items/Scraps/KangarooHat/spec2.png
+- Assets/Mods/MACO/ModManifest.asset
+- Assets/Mods/MACO/Items/Scraps/Gokulisa/Miguel_Art_GokuLisa.fbx
+- Assets/Mods/MACO/Items/Scraps/KangarooHat/hatMat.mat
+- Assets/Mods/MACO/Items/Scraps/Gokulisa/Gokulisa.asset
+- Assets/Mods/MACO/Items/Scraps/battery 1/battery.asset
+- Assets/Mods/MACO/macomodassetbank.asset
+- Assets/Mods/MACO/Items/Scraps/Keycard/Izan_keycard.asset
+- Assets/Mods/MACO/Items/Scraps/Old TV/oldtv.asset
+- Assets/Mods/MACO/Items/Scraps/Keycard/Keycard_Mat.mat
+- Assets/Mods/MACO/Items/Scraps/Phone/Arnau_Phone_Mat_2.mat
+- Assets/Mods/MACO/Items/Scraps/Keycard/Card_Diff.png
+- Assets/Mods/MACO/Items/Scraps/Mug/Arnau_Mug_Blend.blend
+- Assets/Mods/MACO/Items/Scraps/Phone/Arnau_Phone.png
+- Assets/Mods/MACO/Items/Scraps/battery 1/Battery.mat
+- Assets/Mods/MACO/Items/Scraps/Mug/Arnau_Mug.prefab
+- Assets/Mods/MACO/Items/Scraps/KangarooHat/Alejandro_Hat.asset
+- Assets/Mods/MACO/Items/Scraps/KangarooHat/Alejandro_KangarooHat.prefab
+- Assets/Mods/MACO/Items/Scraps/Keycard/Izan_keycard.prefab
+- Assets/Mods/MACO/Items/Scraps/Gokulisa/Gokulisa.png
+- Assets/Mods/MACO/Items/Scraps/Old TV/Alejandro_TV.png
+- Assets/Mods/MACO/Items/Scraps/Phone/ArnauPhone.asset
+- Assets/Mods/MACO/Items/Scraps/Old TV/OldTV.prefab
+- Assets/Mods/MACO/Items/Scraps/Mug/Arnau_Mug.asset
+- Assets/Mods/MACO/Items/Scraps/battery 1/battery.prefab
+- Assets/Mods/MACO/Items/Scraps/Mug/Arnau_Mug.png
+- Assets/Mods/MACO/Items/Scraps/Old TV/Alejandro_TV.blend
+- Assets/Mods/MACO/Items/Scraps/Phone/Arnau_Phone.prefab
+- Assets/Mods/MACO/Items/Scraps/Gokulisa/Miguel_Art_GokuLisa.prefab
+- Assets/Mods/MACO/Items/Scraps/Phone/Arnau_Phone_Mat.mat
+- Assets/Mods/MACO/Items/Scraps/Old TV/TV_Screen_Mat.mat
+- Assets/Mods/MACO/Items/Scraps/Phone/Arnau_Phone_2.png
+- Assets/Mods/MACO/Items/Scraps/KangarooHat/diffuse2.png
+- Assets/Mods/MACO/Items/Scraps/Phone/Arnau_Phone.blend
+- Assets/Mods/MACO/Items/Scraps/Mug/mugMaterial.mat
+- Assets/Mods/MACO/Items/Scraps/Keycard/Izan_keycard.blend
+- Assets/Mods/MACO/Items/Scraps/Keycard/Card_Roughness.png
+- Assets/Mods/MACO/Items/Scraps/Gokulisa/Gokulisa_Mat.mat
+Dependencies:
+- E:/Unity/LethalSDK_Project/Assets/AssetBundle/lethalexpansion.lem
+- E:/Unity/LethalSDK_Project/Assets/AssetBundle/templatemod.lem
