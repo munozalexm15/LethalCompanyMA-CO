@@ -6,4 +6,4 @@ a no ser que querrais añadir más items.
 
 ![Televisión con mi cara](./Images/Foto1.png)
 
-![Gorra kanguro + taza Nathanael] (./Images/Foto2.PNG)
+![Gorra kanguro + taza Nathanael](./Images/Foto2.PNG)
